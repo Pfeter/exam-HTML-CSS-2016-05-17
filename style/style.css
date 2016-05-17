@@ -45,5 +45,7 @@ td {
 }
 
 .right-bottom {
-  float: right;  
+  position:absolute;
+  top: 150px;
+  right: 122px;
 }
