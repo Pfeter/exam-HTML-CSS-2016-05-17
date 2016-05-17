@@ -32,11 +32,16 @@ h1 {
   font-style: italic;
 }
 
+p {
+  margin-top: 10px;
+}
+
 .bold-font {
   font-weight: bold;
 }
 
 table {
+  margin: 0px;
   border-spacing: 0;
 }
 
