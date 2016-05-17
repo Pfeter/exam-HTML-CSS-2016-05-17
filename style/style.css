@@ -1,0 +1,49 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background: #ccc;
+  font-family: arial;
+  font-size: 14px;
+}
+
+main {
+  height: 185px;
+  width: 542px;
+  padding: 20px;
+  border: 1px solid black;
+  display: flex;
+}
+
+.left-float, table {
+  float: left;
+}
+
+.border-between {
+  margin-right: 20px;
+  padding-right: 20px;
+  border-right: 1px solid black;
+}
+
+h1 {
+  margin: 0 0 10px;
+  font-size: 24px;
+  font-style: italic;
+}
+
+.bold-font {
+  font-weight: bold;
+}
+
+table {
+  border-spacing: 0;
+}
+
+td {
+  width: 110px;
+}
+
+.right-bottom {
+  float: right;  
+}
